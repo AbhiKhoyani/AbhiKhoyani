@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @AbhiKhoyani
 - 👀 My Research interests are Computer Vision, Autonomous Vehicles, and Robotics.
 - :books: I've completed my MASc from Carleton University with the thesis titled "Towards Full Deep Learning-based SLAM".
-- 🌱 I’m currently an Perception systems engineering intern at Hexagon's Autonomy & Positioning Division. 
+- 🌱 I’m currently a Perception systems engineering intern at Hexagon's Autonomy & Positioning Division. 
 - 💞️ I’m always open to possible collaborations in the above areas. Reach out to me!
 - 📫 Drop me an e-mail at abhikhoyani@yahoo.in
 
